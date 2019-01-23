@@ -12,6 +12,9 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
 
+Documentation
+--------------
+* **[Accelerometer Basics](https://learn.sparkfun.com/tutorials/accelerometer-basics)**
 
 License Information
 -------------------
